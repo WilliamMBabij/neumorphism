@@ -107,6 +107,7 @@ projects:
     projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
+    # - repo3-to-be-excluded
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
