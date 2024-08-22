@@ -1,0 +1,73 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: TCP/IP
+  weight: 5
+
+- name: DNS
+  weight: 5
+
+- name: DHCP
+  weight: 4
+
+- name: VLANs
+  weight: 3
+
+- name: Subnetting
+  weight: 4
+
+- name: NAT 
+  weight: 4
+
+- name: Firewalls
+  weight: 2
+
+- name: VPN 
+  weight: 3
+
+- name: Wireguard
+  weight: 4
+
+- name: SSL/TLS
+  weight: 5
+
+- name: IDS/IPS
+  weight: 4
+
+- name: SSL Decryption
+  weight: 5
+
+- name: Network Security
+  weight: 3
+
+- name: CI/CD Pipelines
+  weight: 2
+
+- name: Version Control
+  weight: 1
+
+- name: DevOps Practices
+  weight: 1
+
+- name: Technical Documentation
+  weight: 4
+
+- name: Customer Relationship Management
+  weight: 5
+
+- name: LDAP
+  weight: 2
+
+- name: Troubleshooting
+  weight: 5
+
+- name: Quality Assurance
+  weight: 3
+
+- name: Wireless
+  weight: 2
+

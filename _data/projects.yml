@@ -1,0 +1,51 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Restructuring the QA Test Cycle for GES
+  descr: "In 2017-2018, I undertook a comprehensive project to restructure the Quality Assurance (QA) test cycle for GES, working closely with the QA manager. This project began with the physical installation of hardware for the QA network, followed by the rebuilding of Windows Virtual Machines (VMs) with backups to ensure a stable testing environment. I also took on the task of rebuilding both Windows domain controllers, which provided an opportunity to deepen my knowledge of Microsoft Windows Server.<br><br>As part of the restructuring effort, I developed new test plans for the 5.6 version and beyond, ensuring that the QA process remained robust and up-to-date with evolving software requirements. Additionally, I collaborated with the development team on proprietary testing and automation tools, contributing to the refinement and automation of the testing process.<br><br>To further enhance my effectiveness in this role, I familiarized myself with various scripting and programming languages, including batch scripting, PowerShell, Ruby, Python, JavaScript, and Node.js. This knowledge allowed me to contribute more effectively to the development and testing processes, reinforcing my position within the team."
+  tags:
+    - tag: Quality Assurance
+    - tag: Test Planning
+    - tag: Windows Server
+    - tag: Virtual Machines
+    - tag: Windows Batch Scripting
+    - tag: Test Automation
+    - tag: Cross-team Collaboration
+
+- name: User Interface Development and Inline Solution Enhancement for NetSpective
+  descr: "In 2015, I played a pivotal role in the development of an inline solution for NetSpective, focusing on a complete rework of the user interface. As the Sales Engineer, I collaborated closely with the development team to shape the new interface, ensuring it met both technical requirements and user expectations. My role involved learning and applying UI/UX principles, with a particular focus on Google Material Design.<br><br>I actively communicated feature requests from customers, ensuring that their needs were integrated into the design. Additionally, I worked extensively with the Quality Assurance (QA) team to understand the testing process, allowing me to assist in testing the user interface once it was ready. Given the scope of the project, my involvement was crucial in managing and executing the testing efforts.<br><br>To complement the new user interface, I developed an entirely new help system based on updated 5.0 documentation. This system was designed to provide customers with comprehensive, step-by-step guidance for setting up the new product, with the potential for limited or no support. As part of this initiative, I also created new training videos to educate prospects and customers, enhancing the product's accessibility and usability."
+  tags:
+    - tag: User Experience (UX)
+    - tag: User Interface Design
+    - tag: Google Material Design
+    - tag: Customer Experience Management
+    - tag: Usability Testing
+    - tag: Quality Assurance
+    - tag: Technical Writing
+    - tag: Video Production
+    - tag: Video Editing
+    - tag: Cross-team Collaboration
+
+- name: Comprehensive Documentation and Training System for NetSpective
+  descr: "In 2013-2014, I led a significant initiative at Telemate to create and standardize all documentation for the NetSpective product, which previously lacked comprehensive guides. This project involved developing a wide range of documentation, including the setup guide, quick start guide, network interface cards, authentication guide, Chrome and Google guides, logon and remote agent guides, and more. In 2015, I further expanded this effort by creating a new help system based on the documentation.<br><br>The project required close collaboration with various departments to ensure accuracy and quality. I worked with Quality Assurance (QA) to obtain updated screenshots and procedural steps, and collaborated with Research & Development (R&D) to verify technical details. To enhance the usability and clarity of the documentation, I studied the Microsoft Style Guide for technical writing, ensuring a reader-friendly flow. Additionally, I utilized tools such as MS Word, PowerPoint, Visio, GIMP, Techsmith Snagit, and Techsmith Camtasia to produce high-quality written and video training materials, which were then integrated into the company's website."
+  tags:
+    - tag: Documentation Development
+    - tag: Product Training
+    - tag: Video Production
+    - tag: Video Editing
+    - tag: Image Editing
+    - tag: Microsoft Office
+    - tag: TechSmith
+    - tag: Cross-team Collaboration

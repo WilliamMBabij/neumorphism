@@ -1,0 +1,95 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Github
+  weight: 5
+
+- name: Salesforce
+  weight: 4
+
+- name: JIRA
+  weight: 3
+
+- name: Wireshark
+  weight: 2
+
+- name: Docker
+  weight: 5
+
+- name: Chrome DevTools
+  weight: 2
+
+- name: npm
+  weight: 2
+
+- name: Windows Server
+  weight: 4
+
+- name: VS Code
+  weight: 3
+
+- name: Postman
+  weight: 1
+
+- name: VMware
+  weight: 2
+
+- name: MS Visio
+  weight: 3
+
+- name: Sharepoint
+  weight: 1
+
+- name: Powerpoint
+  weight: 3
+
+- name: Video Editing
+  weight: 3
+
+- name: GIMP
+  weight: 2
+
+- name: Figma
+  weight: 1
+
+- name: pfSense
+  weight: 4
+
+- name: Obsidian
+  weight: 2
+
+- name: EDraw Max
+  weight: 1
+
+- name: TestLog
+  weight: 3
+
+- name: Cursor
+  weight: 4
+
+- name: PuTTY
+  weight: 3
+
+- name: Webex
+  weight: 3
+
+- name: Google Workspace
+  weight: 3
+
+- name: 
+  weight: 
+
+- name: 
+  weight: 
+
+
+
+
+
+
+
+

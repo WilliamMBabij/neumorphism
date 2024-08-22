@@ -1,0 +1,131 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+#
+#
+#   EDUCATION & EXPERIENCE
+
+- title: Grom Educational Services, Inc
+  title-url: https://www.gromedu.com/
+  date: Jan 2018 - Present
+  subtitle: Sales Engineer
+  tags:
+    - tag: Technical Writing
+    - tag: RFx
+    - tag: Customer Relations
+    - tag: Product Demonstrations
+    - tag: Training
+    - tag: Customer On-site Visits
+    - tag: Tradeshows
+    - tag: Competitive Research
+    - tag: Product Design
+  timeline-side: right
+
+- title: Grom Educational Services, Inc
+  title-url: https://www.gromedu.com/
+  date: Jan 2019 - Present
+  subtitle: Technical Support Manager
+  tags:
+    - tag: Ticket Management
+    - tag: CRM Corrections
+    - tag: Feature Requests
+    - tag: Research Projects
+    - tag: Process and repair RMAs
+  timeline-side: right
+
+- title: Grom Educational Services, Inc
+  title-url: https://www.gromedu.com/
+  date: Jan 2019 - Present
+  subtitle: Quality Assurance Manager
+  tags:
+    - tag: Maintain Server Equipment
+    - tag: Test Plans
+    - tag: Proprietary Tools and Automation Scripts
+    - tag: Hardware Evaluation
+    - tag: CI/CD Pipeline Concepts
+  timeline-side: right
+
+- title: Telemate.Net Software
+  title-url: https://www.telemate.net/
+  date: Feb 2012 - Dec 2017
+  subtitle: Sales Engineer
+  tags:
+    - tag: Technical Writing
+    - tag: RFx
+    - tag: Customer Relations
+    - tag: Product Demonstrations
+    - tag: Training
+    - tag: Customer On-site Visits
+    - tag: Tradeshows
+    - tag: Competitive Research
+    - tag: UI/UX Design
+    - tag: Assist Quality Assurance Testing
+    - tag: Proprietary Tools and Automation Scripts
+    - tag: Tier 1 & 2 Technical Support
+    - tag: Customer Retention
+    - tag: Video Recording and Editing
+  timeline-side: left
+
+- title: Greater Atlanta Area, GA
+  title-url: https://williammbabij.dev
+  date: 2011 - 2013
+  subtitle: Private Tutor
+  tags:
+    - tag: CCNA
+    - tag: Wireless
+    - tag: Network Security
+    - tag: Subnetting
+    - tag: Routing and Switching
+    - tag: PC, Network, Server, Cloud Concepts
+  timeline-side: left
+
+- title: Greater Hartford Area, CT
+  title-url: https://williammbabij.dev
+  date: 2001 - 2011
+  subtitle: PC Technical Consultant
+  tags:
+    - tag: PC Bulding and Repair
+    - tag: 24/7 Technical Support
+    - tag: Hardware Installation
+    - tag: Network Installation and Security
+    - tag: Consulations
+  timeline-side: right
+
+- title: Central Connecticut State University
+  title-url: https://www.ccsu.edu/
+  date: 1999 - 2001
+  subtitle: IT Support Assistant - Computer Lab
+  tags:
+    - tag: Inventory Management
+    - tag: Hardware Installation
+    - tag: Software Installation
+    - tag: Troubleshooting
+    - tag: Software Development
+  timeline-side: left
+
+- title: CBT Nuggets
+  title-url: https://www.cbtnuggets.com/
+  date: 2010 - 2014
+  subtitle: CCNA, Wireless, Security, Network Engineering
+  timeline-side: right
+
+- title: Central Connecticut State University
+  title-url: https://www.ccsu.edu/
+  date: 1999 - 2001
+  subtitle: B.A. Computer Science
+  timeline-side: left
