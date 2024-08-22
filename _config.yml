@@ -5,6 +5,8 @@
 title: William Michael Babij
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
+# Set the URL to your custom domain
+url: "https://wmbabij.dev"
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/neumorphism"
